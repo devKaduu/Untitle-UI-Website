@@ -15,7 +15,7 @@ export function Hero() {
           <p className="text-xl/6 text-gray-600 max-w-3xl mx-auto mb-12">{C.subTitle}</p>
           <AreaCtas />
         </div>
-        <Image src="/images/hero-macbook.jpg" width={1216} height={480} alt="Mockup macbook" />
+        <Image src={C.mockup.image} width={1216} height={480} alt={C.mockup.alt} />
         <hr className="border-gray-200" />
       </GridContainer>
     </section>

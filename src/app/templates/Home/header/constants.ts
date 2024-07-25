@@ -1,10 +1,10 @@
 export const C = {
   logo: {
-    image: "/images/logo.svg",
+    image: "/images/header/logo.svg",
     alt: "Logo Untitled UI",
   },
   avatar: {
-    image: "/images/avatar.jpg",
+    image: "/images/header/avatar.jpg",
     alt: "Avatar",
   },
   menuItens: [
