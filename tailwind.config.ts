@@ -16,6 +16,7 @@ const config: Config = {
         "gray-700": "#344054",
         "gray-900": "#101828",
         "brand-50": "#F9F5FF",
+        "brand-100": '#F4EBFF',
         "brand-600": "#7F56D9",
         "brand-700": "#6941c6",
       },
