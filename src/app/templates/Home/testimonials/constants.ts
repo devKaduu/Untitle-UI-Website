@@ -5,7 +5,7 @@ export const C = {
   },
   title: "We’ve been using Untitled to kick start every new project and can’t imagine working without it.",
   avatar: {
-    image: "/images/testimonials/avatar.svg",
+    image: "/images/testimonials/avatar.jpg",
     alt: "Avatar",
   },
   name: "Candice Wu",
