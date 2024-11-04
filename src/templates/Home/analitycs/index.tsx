@@ -33,7 +33,7 @@ export function Analitycs() {
         </div>
         <div className="flex items-start justify-between">
           {C.features.map(({ icon, topic, describe }, index) => (
-            <ItemFeature key={index} icon={icon} topic={topic} describe={describe} />
+            <ItemFeature key={index} icon={icon} topic={topic} describe={describe} isButton />
           ))}
         </div>
       </GridContainer>
