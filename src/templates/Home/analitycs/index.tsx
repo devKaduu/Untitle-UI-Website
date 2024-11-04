@@ -6,7 +6,7 @@ import { ItemFeature } from "@/components/item-feature";
 
 export function Analitycs() {
   return (
-    <section className="py-24">
+    <section className="pt -24">
       <GridContainer>
         <div className="text-center mb-16">
           <span className="inline-block py-1 px-3 bg-brand-50 rounded-2xl text-sm/snug font-medium text-brand-700">
@@ -36,6 +36,7 @@ export function Analitycs() {
             <ItemFeature key={index} icon={icon} topic={topic} describe={describe} isButton />
           ))}
         </div>
+        <hr className="border-gray-200 mt-24" />
       </GridContainer>
     </section>
   );
