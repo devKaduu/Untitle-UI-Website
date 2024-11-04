@@ -1,7 +1,7 @@
 import Image from "next/image";
 
-import { GridContainer } from "../../../components/grid-container";
-import { ItemMenu } from "../../../components/item-menu";
+import { GridContainer } from "@/components/grid-container";
+import { ItemMenu } from "@/components/item-menu";
 
 import { C } from "./constants";
 

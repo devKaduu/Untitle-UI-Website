@@ -1,4 +1,4 @@
-import { GridContainer } from "@/app/components/grid-container";
+import { GridContainer } from "@/components/grid-container";
 import Image from "next/image";
 
 import { C } from "./constants";

@@ -1,3 +1,4 @@
+import { Analitycs } from "./analitycs";
 import { Companies } from "./companies";
 import { Features } from "./features";
 import { Header } from "./header";
@@ -12,6 +13,7 @@ export function HomeTemplate() {
       <Companies />
       <Features />
       <Testimonials />
+      <Analitycs />
     </>
   );
 }

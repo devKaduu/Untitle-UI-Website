@@ -1,7 +1,7 @@
-import { GridContainer } from "@/app/components/grid-container";
+import { GridContainer } from "@/components/grid-container";
 
 import { C } from "./constants";
-import { ItemFeature } from "@/app/components/item-feature";
+import { ItemFeature } from "@/components/item-feature";
 
 export function Features() {
   return (

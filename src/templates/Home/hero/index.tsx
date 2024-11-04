@@ -1,8 +1,8 @@
-import { GridContainer } from "@/app/components/grid-container";
-import { TagFeature } from "@/app/components/tag-feature";
+import { GridContainer } from "@/components/grid-container";
+import { TagFeature } from "@/components/tag-feature";
 
 import { C } from "./constants";
-import { AreaCtas } from "@/app/components/area-ctas";
+import { AreaCtas } from "@/components/area-ctas";
 import Image from "next/image";
 
 export function Hero() {
